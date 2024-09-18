@@ -24,7 +24,7 @@ export default async function Navbar() {
             <Link
               href={item.path}
               key={item.path}
-              className="text-sm transition-colors text-gray-800 hover:text-primary dark:hover:text-gray-50"
+              className="text-sm transition-colors text-gray-800 hover:text-neutral-500 dark:hover:text-gray-50"
             >
               {item.label}
             </Link>

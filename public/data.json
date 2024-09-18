@@ -31,22 +31,22 @@
     }
   },
   "personalInfo": {
-    "name": "Arif Hossain",
+    "name": "Aniruddha Teke",
     "title": "Full Stack Developer",
-    "location": "Dhaka, Bangladesh",
-    "bio": "I am a passionate full-stack developer with a strong background in building modern, scalable web applications. Lets collaborate andbring your ideas to life."
+    "location": "Pune, India", 
+    "bio": "I am a passionate full-stack developer with a strong background in building modern, scalable web applications. Lets collaborate and bring your ideas to life."
   },
   "contactInfo": {
-    "email": "devarifhossain@gmail.com",
-    "phone": "123-456-7890",
-    "linkedin": "https://www.linkedin.com/in/ariflogs/",
-    "github": "https://github.com/ariflogs",
-    "twitter": "https://twitter.com/ariflogs",
-    "website": "https://johndoe.dev"
+    "email": "aniruddhateke@gmail.com",
+    "phone": "9356778533",
+    "linkedin": "https://www.linkedin.com/in/aniruddha-teke-0436a01a8/",
+    "github": "https://github.com/Aniruddha183",
+    "twitter": "https://twitter.com/AniruddhaTeke",
+    "website": "https://"
   },
   "skills": {
     "languages": ["JavaScript", "Python", "Java", "C++"],
-    "frameworks": ["React", "Node.js", "Express", "Django", "Spring Boot"],
+    "frameworks": ["NextJs", "React", "Node.js", "Express", "Spring Boot"],
     "databases": ["MySQL", "MongoDB", "PostgreSQL"],
     "tools": ["Git", "Docker", "Kubernetes", "Jenkins", "AWS", "GCP"]
   },
@@ -82,27 +82,27 @@
   "workExperience": [
     {
       "id": "1",
-      "company": "Tech Corp",
-      "companyWebsite": "https://example.com",
+      "company": "FitnEarn",
+      "companyWebsite": "https://fitnearn.com",
       "role": "Senior Full Stack Developer",
-      "startDate": "Jan 2020",
+      "startDate": "Jan 2024",
       "endDate": "Present",
-      "technologies": ["Socket.io", "Node.js", "Express", "React"],
+      "technologies": ["Next JS", "React", "Node", "AWS", "Jenkins"],
       "keyResponsibilities": [
         "Led a team of developers to create scalable web applications.",
-        "Implemented RESTful and GraphQL APIs using Node.js and Express.",
+        "Implemented CICD pipelines and Github actions to deploy the apps to production.",
         "Developed front-end applications using React and Next.js.",
         "Integrated third-party services and APIs to enhance application functionality.",
-        "Mentored junior developers and conducted code reviews."
+        "Worked in AWS and Google cloud for the auth and storage management services."
       ]
     },
     {
       "id": "2",
-      "company": "Web Solutions",
-      "companyWebsite": "https://example.com",
+      "company": "TechDarshak",
+      "companyWebsite": "https://techdarshak.com/",
       "role": "Full Stack Developer",
-      "startDate": "Jun 2017",
-      "endDate": "Dec 2019",
+      "startDate": "Jun 2023",
+      "endDate": "Dec 2023",
       "technologies": ["MongoDB", "Express", "React", "Node.js"],
       "keyResponsibilities": [
         "Designed and developed web applications using JavaScript and React.",
@@ -116,11 +116,11 @@
   "education": [
     {
       "id": "1",
-      "institution": "Coursera",
-      "degree": "Full Stack Web Development with React",
-      "description": "Completed a Coursera specialization that focused on building full-stack web applications using React, Node.js, Express, and MongoDB. Learned best practices for designing and implementing responsive, scalable, and secure web applications.",
-      "startDate": "Sep 2013",
-      "endDate": "May 2017"
+      "institution": "VIIT, Pune",
+      "degree": "B.Tech in EnTC",
+      "description": "Completed a Degree specialization in EnTC, participated in extra curricular activities, got the GPA of 9.0 and become a bachlor.",
+      "startDate": "June 2021",
+      "endDate": "May 2024"
     },
     {
       "id": "2",
